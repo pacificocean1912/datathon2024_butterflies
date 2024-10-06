@@ -35,8 +35,6 @@ Policy recommendations: Propose policy changes to improve air quality and protec
 Future research directions: Identify areas for further investigation to enhance our understanding of the relationship between air quality and monarch populations.
 By following these steps and leveraging the power of data analysis, you can contribute to the conservation of monarch butterflies and inform evidence-based policy decisions.
 
-Would you like to delve deeper into any specific aspect of this project, such as data collection, statistical modeling, or visualization techniques?
-
 
 
 
