@@ -16,7 +16,7 @@ Research institutions: Academic studies on monarch biology, habitat preferences,
 Data Cleaning and Preparation:
 
 Data quality assessment: Identify and address missing values, outliers, and errors.
-Feature engineering: Create new features (e.g., air quality index, distance to urban areas) for analysis.
+Feature engineering: Create new features for analysis.
 Exploratory Data Analysis (EDA)
 Geographic analysis: Visualize spatial patterns using maps to identify regions with high air pollution and low butterfly populations.
 Statistical Modeling
